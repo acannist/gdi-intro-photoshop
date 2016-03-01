@@ -1,29 +1,38 @@
-GDI Boston, Intro to Photoshop
+Photoshop 101
+======================
 
-Class Description
+Materials for Photoshop 101, developed by [Zoe Rooney](http://zoerooney.com) for Girl Develop It Philadelphia.
 
-Having Adobe Photoshop knowledge is an essential tool for web designers, developers, bloggers, or anyone interested in taking their work to the next level. These programs can be intimidating due to their wide range of applications. Whether you’re a novice, or someone who is looking to expand your understanding of the tools, this class is perfect for you! In this workshop we will cover the fundamentals needed to start any project, with an emphasis on web design.
+The course is meant to be taught in a single 2 hour workshop. 
 
-This class is for Photoshop beginners who want to learn the basic lay of the land, talk about when to use Photoshop (and when not to use it) as well as a general overview of the tools, tricks and tips for the latest version of Photoshop.
+## Suggested course description is below:
+
+_Do you want to learn how to get started using Photoshop to do basic photo editing and to design simple graphics for the web?_
+
+Photoshop is one of the most popular photo editing tools and web design tools out there. In this beginner workshop, you'll learn about essential options, tools, and simple techniques for working with photos and graphics.
+
+We will cover:
+
+* Document basics including dimensions and resolution 
+
+* The Photoshop interface, from windows and workspaces to all those different tools and menu options (focusing on those used most frequently in a web workflow)
+
+* Organizing files with layers, layer groups and layer comps 
+
+* Basic techniques for working with photos and graphics
+
+**Required Software:** Photoshop (NOT Photoshop Elements or other limited versions of the software - those do not have the same tools or capabilities)
+
+With a free Creative Cloud membership, you can download a 30-day trial version of Photoshop - https://creative.adobe.com/plans - just make sure you've downloaded and opened prior to the class so you're certain it's fully installed and working on your computer. Photoshop can take a long time to download so don't wait until the last minute!
 
 
-TAKEAWAYS
+## Accessing the Course Materials
 
-This course is open to all proficiency levels. We may reference some basic HTML and CSS concepts but we won't be writing any code.
+1. First, download the zip file of all materials in this repository using the **Download Zip** button on the right side of the screen:<br>
+![Download zip button](/images/download-zip.png)
 
-• We’ll work on a variety of hands-on how-to activities, touching on all the major features Photoshop has to offer - from basic image manipulation, editing text, creating layer effects, borders, shadows, and other dynamic styles.  Let's "develop" it! 
+2. Open the zip file on your computer. In the folder, there is an **/example-files/** folder with example files and extra images.
 
-• We’ll also briefly cover a few helpful tips and tricks you can use once you’re ready to build your designs into HTML & CSS!
+3. To view the slideshow, open the **index.html** file in your web browser. The easiest way to navigate the slides is with your keyboard arrow keys.
 
-
-PREREQS & PREPARATION
-
-You do not need any prior experience with Photoshop. Just come with a desire to learn and the following tools:
-
-• Laptop & Charger
-
-• Photo ID (for security reasons)
-
-• Photoshop installed on your computer. If you do not currently have Photoshop on your computer, you can download and use a free 30-day trial here. (Note: If you are using the free trial, please do not install Photoshop until the day before or the day of class to make sure you get the most out of your free trial!)
-
-All attendees are expected to abide by the Girl Develop It Code of Conduct. 
+4. To grab a full sample PSD for practice (we'll look at this file during class as well), go to [this Dribble page](https://dribbble.com/shots/1794875-Freebie-PSD-Halcyon-Days-Website-PSD) and look for the download here link.
