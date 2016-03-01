@@ -2,7 +2,8 @@ Intro to Adobe Photoshop
 ======================
 
 Materials for Intro to Adobe Photoshop, Girl Develop It Boston.
-Originally developed by [Zoe Rooney] for GDI Philly, adapted by Jamie Lee Connor.
+
+Originally developed by Zoe Rooney for GDI Philly, adapted by Jamie Lee Connor.
 
 The course is meant to be taught in a single 2 hour workshop. 
 
